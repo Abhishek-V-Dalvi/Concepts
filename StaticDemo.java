@@ -42,10 +42,10 @@ class StaticDemo
 
         Demo obj;
       obj = new Demo();
-/*
+
         obj.fun();
 
         System.out.println(obj.i);
-        System.out.println(obj.j);  */
+        System.out.println(obj.j); 
     }
 }
